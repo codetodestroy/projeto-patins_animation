@@ -3,6 +3,8 @@ header {
     width: 100%;
     padding: 1.25rem 2rem;
 
+    margin-inline: auto;
+
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -42,11 +44,5 @@ header {
             align-items: center;
             justify-content: center;
         }
-
-
     }
-
-
-
-
 }
